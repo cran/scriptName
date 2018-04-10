@@ -1,0 +1,12 @@
+cb69ce75e059b13aa4083453f1436f13 *DESCRIPTION
+93fa7fd4e38fe59ddafdd3298e20f703 *LICENSE
+37a0d8861a65765736609b039e055b9d *NAMESPACE
+9772975d64944fc83fcd560653b08a89 *R/current_filename.R
+9f9a0d65b297c6bf49ef0ec23b104afa *README
+c7973de33ed411f9b9f3946b91dea9aa *man/current_filename.Rd
+078e82ef93545cf1b55134a2b823c0ae *tests/testthat.R
+f721f757f36aedc4d57fb7df08ac9497 *tests/testthat/current_cli_filename.R
+5a83e8400b0ae2ce7bdb34b8a304ce71 *tests/testthat/current_filename.R
+058bc5ef30f667ce523a14df9dd92643 *tests/testthat/current_source_filename.R
+ecac28f46da62a3fb1eb5b20daf8bf5e *tests/testthat/red-herring.R
+2d8ac08dd18161f1e125a740a010c636 *tests/testthat/test.all.R
